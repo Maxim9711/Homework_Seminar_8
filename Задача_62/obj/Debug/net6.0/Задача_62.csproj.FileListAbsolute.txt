@@ -1,0 +1,15 @@
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.csproj.AssemblyReference.cache
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.AssemblyInfoInputs.cache
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.AssemblyInfo.cs
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.csproj.CoreCompileInputs.cache
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/Задача_62
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/Задача_62.deps.json
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/Задача_62.runtimeconfig.json
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/Задача_62.dll
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/ref/Задача_62.dll
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/bin/Debug/net6.0/Задача_62.pdb
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.dll
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/ref/Задача_62.dll
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.pdb
+/home/max/Рабочий стол/GeekBrains/Семинар_8/Задачи/Задача_62/obj/Debug/net6.0/Задача_62.genruntimeconfig.cache
